@@ -1,0 +1,5 @@
+package com.dken.webspider.core;
+
+public class URLParser {
+
+}
